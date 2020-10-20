@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "target": "es5",
+    "lib": [
+      "ES2015",
+      "ES6",
+      "DOM"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "js"
+  ],
+  "compileOnSave": true
+}
